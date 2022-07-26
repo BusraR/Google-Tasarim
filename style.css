@@ -58,17 +58,20 @@ img
     margin: auto;
     padding-left:500px;
 }
+/*Liste Yapısı Ortalandı*/
 ul
 {
     list-style-type: none;
     text-align: center;
 }
+/* Paragraf özelliği ayarlandı */
 .p-ozellik
 {
 margin-top:8px;
 text-align: center;
 font-size: small;    
 }
+/* Link listesi ayarlandı */
 .liste
 {
     font-size: small;
@@ -76,6 +79,7 @@ font-size: small;
     list-style-type: none;
     text-align: center;
 }
+/* Search Bar düzenlendi */
 .topnav input[type=text]
  {
     padding-left:100px;
